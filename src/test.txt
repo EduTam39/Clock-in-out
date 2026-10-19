@@ -1,0 +1,2 @@
+hola como estamos
+Esto es un archivo de prueba para corroborar la funcionalidad de los enlaces simbolicos en windows
