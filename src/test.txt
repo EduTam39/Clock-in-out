@@ -1,3 +1,3 @@
 hola como estamos
 Esto es un archivo de prueba para corroborar la funcionalidad de los enlaces simbólicos en windows
-También para la automatización de los pull requests.
+También para la automatización de los pull requests. Otra de estas pruebas
